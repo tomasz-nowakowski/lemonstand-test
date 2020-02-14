@@ -6,6 +6,7 @@
   	"https://raw.githubusercontent.com/tomasz-nowakowski/lemonstand-test/master/empire.js?token=AFAUW7L7GNEZXWHICSHR4XK6I25BO"
   ],
   "cssClasses": {
-    "body": "hello world"
+    "body": "hello world",
+    "navigation": "p-0"
   }
 }
