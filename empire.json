@@ -1,0 +1,11 @@
+{
+  "css": [
+  	"https://unpkg.com/bootstrap@4.4.1/dist/css/bootstrap.min.css"
+  ],
+  "js": [
+  	"@example@4.4.1/dist/js/example.js"
+  ],
+  "cssClasses": {
+    "body": "hello world"
+  }
+}
