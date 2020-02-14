@@ -7,6 +7,7 @@
   ],
   "cssClasses": {
     "body": "hello world",
-    ".navigation": "p-0"
+    ".navigation": "p-0",   
+    ".nav-link": "bg-danger",
   }
 }
