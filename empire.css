@@ -1,0 +1,7 @@
+.navigation {
+  background: #1985A1;
+}
+
+body.my-border {
+  border-left: 40px solid green;
+}
