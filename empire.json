@@ -8,6 +8,6 @@
   "cssClasses": {
     "body": "hello world",
     ".navigation": "p-0",   
-    ".nav-link": "bg-danger",
+    ".nav-link": "bg-danger"
   }
 }
