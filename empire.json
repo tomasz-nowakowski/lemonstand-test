@@ -1,9 +1,9 @@
 {
   "css": [
-  	"https://raw.githubusercontent.com/tomasz-nowakowski/lemonstand-test/master/empire.css"
+  	"https://cdn.jsdelivr.net/gh/tomasz-nowakowski/lemonstand-test/empire.css"
   ],
   "js": [
-  	"https://raw.githubusercontent.com/tomasz-nowakowski/lemonstand-test/master/empire.js"
+  	"https://cdn.jsdelivr.net/gh/tomasz-nowakowski/lemonstand-test/empire.js"
   ],
   "cssClasses": {
     "body": "hello world my-border",
