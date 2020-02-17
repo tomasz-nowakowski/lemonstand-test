@@ -1,9 +1,9 @@
 {
   "css": [
-  	"https://raw.githubusercontent.com/tomasz-nowakowski/lemonstand-test/master/empire.css?token=AFAUW7P7ZRHF3FI4UZYUG2C6I2424"
+  	"https://raw.githubusercontent.com/tomasz-nowakowski/lemonstand-test/master/empire.css"
   ],
   "js": [
-  	"https://raw.githubusercontent.com/tomasz-nowakowski/lemonstand-test/master/empire.js?token=AFAUW7L7GNEZXWHICSHR4XK6I25BO"
+  	"https://raw.githubusercontent.com/tomasz-nowakowski/lemonstand-test/master/empire.js"
   ],
   "cssClasses": {
     "body": "hello world",
