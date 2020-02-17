@@ -1,3 +1,3 @@
 (function () {
-  console.log('subdomain configuration test);
-})()
+  console.log('subdomain configuration test');
+})();
