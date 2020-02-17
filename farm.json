@@ -1,0 +1,6 @@
+{
+  "cssClasses": {
+    ".nav-link": "bg-success",
+    ".navigation": "bg-light"
+  }
+}
