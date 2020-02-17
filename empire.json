@@ -6,7 +6,7 @@
   	"https://raw.githubusercontent.com/tomasz-nowakowski/lemonstand-test/master/empire.js"
   ],
   "cssClasses": {
-    "body": "hello world",
+    "body": "hello world my-border",
     ".navigation": "p-0",   
     ".nav-link": "bg-warning"
   }
