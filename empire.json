@@ -1,13 +1,29 @@
 {
-  "css": [
-  	"https://cdn.jsdelivr.net/gh/tomasz-nowakowski/lemonstand-test/empire.css"
-  ],
-  "js": [
-  	"https://cdn.jsdelivr.net/gh/tomasz-nowakowski/lemonstand-test/empire.js"
-  ],
-  "cssClasses": {
-    "body": "hello world my-border",
-    ".navigation": "p-0",   
-    ".nav-link": "bg-warning"
-  }
+    "css": [
+        "https://cdn.jsdelivr.net/gh/tomasz-nowakowski/lemonstand-test/empire.css"
+    ],
+    "js": [
+        "https://cdn.jsdelivr.net/gh/tomasz-nowakowski/lemonstand-test/empire.js"
+    ],
+    "cssClasses": {
+        "body": "hello world my-border",
+        ".navigation": "p-0",
+        ".nav-link": "bg-warning"
+    },
+    "categories": {
+        "cashoffers": {
+            "title": "Cash Offers",
+            "url": "https://webshop-hd-bf-prod.public.ggs-bf.com/?locale=en"
+        },
+        "specialoffers": "https://webshop-frontend-prod.public.ggs-ep.com/",
+        "growthoffers": {
+            "title": "Growth Fund",
+            "url": "https://webshop-gf-live.public.ggs-ep.com/"
+        },
+        "eventoffers": "https://webshop-event-offers-live.public.ggs-ep.com/",
+        "vouchers": {
+            "title": "Voucher Code",
+            "url": "https://vouchers-prod.public.ggs-ep.com/"
+        }
+    }
 }
