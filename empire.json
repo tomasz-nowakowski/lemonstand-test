@@ -20,7 +20,11 @@
             "title": "Growth Fund",
             "url": "https://webshop-gf-live.public.ggs-ep.com/"
         },
-        "eventoffers": "https://webshop-event-offers-live.public.ggs-ep.com/",
+        "eventoffers": {
+            "title": "Event Offers",
+            "https://webshop-event-offers-live.public.ggs-ep.com/",
+            "visible": true
+        },
         "vouchers": {
             "title": "Voucher Code",
             "url": "https://vouchers-prod.public.ggs-ep.com/",
