@@ -24,7 +24,7 @@
         "vouchers": {
             "title": "Voucher Code",
             "url": "https://vouchers-prod.public.ggs-ep.com/",
-            "visible": false,
+            "visible": false
         }
     }
 }
