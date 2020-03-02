@@ -5,22 +5,23 @@
     "categories": {
         "cashoffers": {
             "title": "Cash Offers",
-            "url": "https://webshop-hd-bf-prod.public.ggs-bf.com/?locale=en"
+            "url": "https://cashoffers.now.sh/"
         },
-        "specialoffers": "https://webshop-frontend-prod.public.ggs-ep.com/",
+        "specialoffers": {
+            "title": "Special Offers",
+            "url": "https://webshop-sales-live.public.ggs-ep.com"
+        },
         "growthoffers": {
             "title": "Growth Fund",
             "url": "https://webshop-gf-live.public.ggs-ep.com/"
         },
         "eventoffers": {
             "title": "Event Offers",
-            "url": "https://webshop-event-offers-live.public.ggs-ep.com/",
-            "visible": true
+            "url": "https://webshop-event-offers-live.public.ggs-ep.com/"
         },
         "vouchers": {
             "title": "Voucher Code",
-            "url": "https://vouchers-prod.public.ggs-ep.com/",
-            "visible": false
+            "url": "https://vouchers-prod.public.ggs-ep.com/"
         }
     }
 }
