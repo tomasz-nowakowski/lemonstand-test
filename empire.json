@@ -1,15 +1,7 @@
 {
-    "css": [
-        "https://cdn.jsdelivr.net/gh/tomasz-nowakowski/lemonstand-test/empire.css"
-    ],
-    "js": [
-        "https://cdn.jsdelivr.net/gh/tomasz-nowakowski/lemonstand-test/empire.js"
-    ],
-    "cssClasses": {
-        "body": "hello world my-border",
-        ".navigation": "p-0",
-        ".nav-link": "bg-warning"
-    },
+    "css": [],
+    "js": [],
+    "cssClasses": {},
     "categories": {
         "cashoffers": {
             "title": "Cash Offers",
